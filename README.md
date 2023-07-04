@@ -4,7 +4,7 @@ This is a website that prompts you for how many characters and what type of char
 
 ### Getting Started 
 
-Please go to this URL: https://github.com/CARhoden/Password-Gen.git
+Please go to this URL: https://github.com/CARhoden/Password-Gen-2.git
 ![image](https://github.com/CARhoden/Portfolio/assets/101947931/37165f35-dc9e-4bc9-8fe4-5d939eac47b2)
 
 ## Prerequisites & Installing
@@ -13,7 +13,7 @@ Just a website so a web browser is all your need. I would recommend Google Chrom
  
 ## Deployment
 
-This website is deployed on github. So by this link: https://carhoden.github.io/Password-Gen/
+This website is deployed on github. So by this link: https://carhoden.github.io/Password-Gen-2/
 you can access to it.
 
 ## Built With
